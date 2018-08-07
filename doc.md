@@ -8,6 +8,6 @@
 
 #### composer 更新时忽略版本号
 
-	composerinstall --ignore-platform-reqs
+	composer install --ignore-platform-reqs
 	or
-	composerupdate --ignore-platform-reqs
+	composer update --ignore-platform-reqs
